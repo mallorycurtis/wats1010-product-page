@@ -1,8 +1,28 @@
 /* Styles for Product Page Customization */
 /* NOTE: Do not edit the Bootstrap CSS files. */
+html {
+	background-image: url("assets/misc/screen1.png"); 
+
+}
 
 body {
     padding-top: 30px;
     padding-bottom: 20px;
-    color: green;
+    color: black;
 }
+
+.col-md-4 {
+	margin-bottom: 20px; 
+	background-color: lightgray; 
+	height: 225px; 
+}
+
+img {
+	height: 35px;
+	width:35px; 
+	margin-bottom: 20px; 
+	margin-right: 10px; 
+}
+
+
+
